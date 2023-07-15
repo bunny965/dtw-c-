@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\bunny\source\repos\Project5\源.cpp(101,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\bunny\source\repos\Project5\源.cpp(242,50): error C2664: “int **creatmatrix(int [][3],int [][3])”: 无法将参数 2 从“double [200][3]”转换为“int [][3]”
+C:\Users\bunny\source\repos\Project5\源.cpp(242,42): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\bunny\source\repos\Project5\源.cpp(113,7): message : 参见“creatmatrix”的声明
